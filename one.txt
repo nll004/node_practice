@@ -1,2 +1,1 @@
-This is file one.
-This is the second line of file one.
+I want this text in my file
